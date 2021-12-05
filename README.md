@@ -1,5 +1,5 @@
 # Cleaning-ML-Dashboar
-I have a large dataset(in csv, not sharing), this notebook is to record the steps of my datacleaning, explotary data analysis, modelling, and visulisation steps.
+From a few dataset each relate to web users, user actions and web merchants, this notebook is to record the steps of my datacleaning, explotary data analysis, modelling, and visulisation steps of the datasets.
 
 1: Data cleaning use Pandas, Numpy, Matplotlib.
 
